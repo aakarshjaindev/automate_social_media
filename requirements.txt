@@ -1,0 +1,4 @@
+requests
+requests_oauthlib
+APScheduler
+python-dotenv 
